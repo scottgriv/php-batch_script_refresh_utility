@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <!-- Author: Scott Grivner -->
-<!-- Website: scottgrivner.dev -->
+<!-- Website: linktr.ee/scottgriv -->
 <!-- Abstract: Batch Script Refresh Utility -->
 <html>
 <head>
